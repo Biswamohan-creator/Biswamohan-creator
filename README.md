@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Biswamohan-creator
 - 👀 I’m interested in iOS App Development
-- 💞️ I’m looking to collaborate on iOS App Development projects
+- 🏢 I’m looking to collaborate on iOS App Development projects
 
 <!---
 Biswamohan-creator/Biswamohan-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
